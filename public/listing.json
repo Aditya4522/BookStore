@@ -1,0 +1,42 @@
+[
+    {   "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-apple-with-copy-space-education-day_23-2149241047.jpg?ga=GA1.1.1967259431.1728382328&semt=ais_hybrid",
+        "titile": "Life of part book",
+        "name": "story book",
+        "descrption":" Distinctio quas, consectetur ipsam illum sapiente nihil officiis hic doloremque numquam laborum!",
+        "price":0
+    },
+    {
+        "image":"https://img.freepik.com/free-vector/flat-world-book-day-vertical-poster-template_23-2149340591.jpg?ga=GA1.1.1967259431.1728382328&semt=ais_hybrid",
+        "titile": "Story book",
+        "name": "story book",
+        "descrption":" Distinctio quas, consectetur ipsam illum sapiente nihil officiis hic doloremque numquam laborum!",
+        "price":0
+    },
+    {   "image":"https://img.freepik.com/premium-psd/book-hardcover-mockup-three-views_125540-226.jpg?ga=GA1.1.1967259431.1728382328&semt=ais_hybrid",
+        "titile": "History book",
+        "name": "story book",
+        "descrption":" Distinctio quas, consectetur ipsam illum sapiente nihil officiis hic doloremque numquam laborum!",
+        "price":0
+    },
+    {
+        "image":"https://img.freepik.com/free-photo/arrangement-with-books-pink-background_23-2148898317.jpg?t=st=1728458711~exp=1728462311~hmac=eefb0c3ea4902587701634b16becfa69de63bc5bc9c30d7dd08cf293e86d24f4&w=826",
+        "titile": "Regilion book",
+        "name": "story book",
+        "descrption":" Distinctio quas, consectetur ipsam illum sapiente nihil officiis hic doloremque numquam laborum!",
+        "price":0
+    },
+    {
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5917.jpg?ga=GA1.1.1967259431.1728382328&semt=ais_hybrid",
+        "titile": "Food book",
+        "name": "story book",
+        "descrption":" Distinctio quas, consectetur ipsam illum sapiente nihil officiis hic doloremque numquam laborum!",
+        "price":0
+    },
+    {
+        "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?ga=GA1.1.1967259431.1728382328&semt=ais_hybrid",
+        "titile": "Drema book",
+        "name": "story book",
+        "descrption":" Distinctio quas, consectetur ipsam illum sapiente nihil officiis hic doloremque numquam laborum!",
+        "price":0
+    }
+]
